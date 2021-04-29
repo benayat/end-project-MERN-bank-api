@@ -25,6 +25,8 @@ current timeline:
 - fixing all bugs in the backend in the original bank project.
   getting it approved by the staff after I can show them it's possible.
 
+- also today: do all authentication part from udemy!
+
 # MERN-boilerplate-restapi
 
 fullstack simple rest-api with mongodb(as mongoose), and express routing in nodejs. simple UI with react, and deploy in heroku
