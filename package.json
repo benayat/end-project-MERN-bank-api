@@ -1,7 +1,7 @@
 {
-  "name": "weekend-mern-app",
+  "name": "bank-api-mern",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN app for bank crud, with database management, and some ML features",
   "main": "index.js",
   "scripts": {
     "start": "cd server && npm install && node ./index.js",
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/benayat/fullstack-boilerplate-restapi.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Benaya Trabelsi",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/benayat/fullstack-boilerplate-restapi/issues"
   },
