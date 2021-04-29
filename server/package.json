@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-another-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "npm": "6.14.12",
+    "node": "14.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "iink-js": "^1.4.5",
+    "mongoose": "^5.12.5",
+    "tesseract.js": "^2.1.4",
+    "validator": "^13.6.0"
+  }
+}

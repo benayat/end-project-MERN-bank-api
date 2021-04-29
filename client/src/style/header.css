@@ -1,0 +1,13 @@
+.add {
+  max-height: 10vh;
+  position: absolute;
+  top: 15vh;
+  left: 47%;
+}
+
+.list {
+  max-height: 10vh;
+  position: absolute;
+  top: 10vh;
+  left: 5vw;
+}

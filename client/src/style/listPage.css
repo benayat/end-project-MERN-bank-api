@@ -1,0 +1,12 @@
+.aboveTable {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+.listHeader {
+  text-align: center;
+}
+.aboveTable img {
+  margin: auto;
+  max-height: 15vh;
+}

@@ -1,0 +1,10 @@
+.addPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.addPage img {
+  object-fit: contain;
+  max-height: 40vh;
+  width: auto;
+}

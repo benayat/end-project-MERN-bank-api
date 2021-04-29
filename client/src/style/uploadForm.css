@@ -1,0 +1,16 @@
+.form-create * {
+  display: inline-flex;
+  margin-right: 1vh;
+}
+.form-create img {
+  max-height: 5vh;
+}
+.form-create button {
+  position: relative;
+  top: 1vh;
+}
+.collumn {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
