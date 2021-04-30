@@ -14,8 +14,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tensorflow/tfjs-node": "^3.6.0",
+    "argparse": "^2.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "handwritten.js": "^18.10.0",
     "iink-js": "^1.4.5",
     "mongoose": "^5.12.5",
     "tesseract.js": "^2.1.4",
